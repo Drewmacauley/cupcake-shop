@@ -2,10 +2,24 @@ h1{
   width: 75%;
   font-style: courier new;
   font-weight: bold;
-  font-size: ; 
+  font-size: normal;
+  color: rgb(38, 87, 38);
 }
+
 body {
   font-style: courier new;
   font-weight: bold;
-  color: skyblue 
+  color: skyblue; 
+}
+
+p.best {
+  font-style: courier new;
+  font-weight: bold;
+  color: purple;
+}
+
+p.flashy {
+  font-style: courier new;
+  font-weight: lighter;
+  color: grey;
 }
